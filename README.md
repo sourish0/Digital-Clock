@@ -19,6 +19,9 @@ This project implements a digital clock and stopwatch using an Arduino and an LC
 - Jumper wires
 - Breadboard (optional)
 
+#Live Demo
+- [Wokwi Environment](https://wokwi.com/projects/412999507931663361) 
+
 ### Libraries Required
 - [Wire.h](https://www.arduino.cc/en/Reference/Wire)
 - [LiquidCrystal_I2C.h](https://github.com/johnrickman/LiquidCrystal_I2C)
