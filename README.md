@@ -14,7 +14,7 @@ This project implements a digital clock and stopwatch using an Arduino and an LC
 ### Hardware Required
 - Arduino board (e.g., Arduino Uno)
 - 16x2 LCD with I2C interface
-- Push buttons (5 total for setting, incrementing, alarm, stopwatch, and resetting)
+- Push buttons (6 total for setting, incrementing, alarm, stopwatch, and resetting)
 - Buzzer for alarm sound
 - Jumper wires
 - Breadboard (optional)
